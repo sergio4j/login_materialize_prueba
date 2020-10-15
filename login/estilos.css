@@ -1,0 +1,30 @@
+
+
+.brand-logo img{
+    width: 50px;
+    margin-top: 8px;
+}
+body{
+    background-image: url('empresa.jpg');
+}
+
+*{
+    color: white;
+}
+.nav-wrapper{
+    background: rgb(12, 39, 51);
+}
+.nav-wrapper ul{
+    margin-left: 20px;
+}
+
+.login{
+    opacity: .6;
+    background-color: rgb(12, 39, 51);
+    text-align: center;
+    padding-top: 1em;
+    margin-top: 5%;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    color: white;
+}
